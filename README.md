@@ -9,7 +9,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/qr-code-rNBiCybhSt">
+    <a href="https://qr-code-component-euraye-solution.vercel.app/">
       Solution
     </a>
    <span> | </span>
